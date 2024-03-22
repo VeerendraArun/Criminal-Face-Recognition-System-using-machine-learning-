@@ -32,14 +32,17 @@ The criminal face recognition system uses CNN algorithm, (Convolutional nueral n
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Succesful multiple face recognition
+#### Output1 - Succesful face recognition
 
 
-![Screenshot 2024-03-17 124135](https://github.com/VeerendraArun/Criminal-Face-Recognition-System-using-machine-learning-/assets/134602393/01123941-a3ce-47df-9418-e1f8d05dbbda)
+![Screenshot 2024-03-22 123536](https://github.com/VeerendraArun/Criminal-Face-Recognition-System-using-machine-learning-/assets/134602393/0d688fb6-f34e-4474-9ab7-1f67417da0c0)
+
 
 #### Output2 - Succesful training of the model
 
-![Screenshot 2024-03-18 222059](https://github.com/VeerendraArun/Criminal-Face-Recognition-System-using-machine-learning-/assets/134602393/344c59cf-1d6a-437e-9502-b6e3c6d08bbd)
+![Screenshot 2024-03-22 123744](https://github.com/VeerendraArun/Criminal-Face-Recognition-System-using-machine-learning-/assets/134602393/1ae10909-3933-4c63-8da0-2fe6a773ad86)
+![Screenshot 2024-03-22 123703](https://github.com/VeerendraArun/Criminal-Face-Recognition-System-using-machine-learning-/assets/134602393/4f12de63-2d74-4299-959b-f6d3f413cf76)
+
 
 Detection Accuracy: 94.6%
 Note: These metrics can be customized based on your actual performance evaluations.
